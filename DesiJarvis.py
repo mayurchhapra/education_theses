@@ -1,6 +1,6 @@
 ﻿# Developer: Mayur Navinbhai Chhapra
 # Purpos: Control Hardware of our PC by Python
-# Description: This script will effect your mouse and scroll 2px in every 7 minuts. 
+# Description: This script will effect your mouse and scroll 500px in every 7 minuts. 
 import pyautogui, sys
 import threading
 import time
