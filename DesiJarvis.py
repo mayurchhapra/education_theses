@@ -11,7 +11,7 @@ def autoPilotMode():
 	print('દેશી જાર્વિસ, ઓટોપાયલટ મોડ ચાલુ')
 	for i in range(1,45):
 		time.sleep(60*7)
-		pyautogui.scroll(-500)
+		pyautogui.scroll(-50)
 		print("Jarvis Log: "+str(datetime.datetime.now().time()))
 try:
 	threading.Thread(target=autoPilotMode).start()
