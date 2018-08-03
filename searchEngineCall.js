@@ -34,10 +34,10 @@
 const Twitter = require('twitter');
 
 var client = new Twitter({
-  consumer_key: 'ldcZqWf66J6zQk4XdDTo8LGxC',
-  consumer_secret: 'a4PnXYSDN9X9D1NNnhA6OqJIfR2UN4laEuk1iYryCVQLLYrCc9',
-  access_token_key: '588161115-hbDsW0EpoOHv0uXmzoYrzEYMF0PMDvgO9pHPxsDc',
-  access_token_secret: 'LLwnmOcbqFkLzCQSM8niCU2kUbVxluZYIA9K9jMSmx77T'
+  consumer_key: 'ldcZqWf66J6zQk4XdDTo8LGxc',
+  consumer_secret: 'a4PnXYSDN9X9D1NNnhA6OqJIfR2UN4laEuk1iYryCVQLLYrCc8',
+  access_token_key: '588161115-hbDsW0EpoOHv0uXmzoYrzEYMF0PMDvgO9pHPxsDC',
+  access_token_secret: 'LLwnmOcbqFkLzCQSM8niCU2kUbVxluZYIA9K9jMSmx77t'
 });
  
 var params = {screen_name: 'mayurngajjar'};
